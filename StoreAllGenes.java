@@ -3,8 +3,8 @@
  * Algorithm to identify multiple genes in a strand od DNA (CAPITAL Letters only)
  * For lowecase letter use toUpperCase() method
  * 
- * @Orached 
- * @16/11/2015
+ * @Ajay 
+ * 11/10/2023
  */
 import edu.duke.*;
 import java.io.*;
